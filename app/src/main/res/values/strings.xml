@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Presentation Card</string>
+    <string name="personal_photo">Personal Photo</string>
+    <string name="i_m_pedro_higuera">I\'m Pedro Higuera</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="linkedin_pedrohiguerag">LinkedIn: pedrohiguerag</string>
+    <string name="github_pedrohiguerag">GitHub: PedroHigueraG</string>
+    <string name="torre_higueragarzonpedroarturo">Torre: higueragarzonpedroarturo</string>
+</resources>
